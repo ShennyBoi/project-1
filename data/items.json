@@ -1,0 +1,37 @@
+[
+    {
+        "id": "wood-log",
+        "name": "Wood Log",
+        "base_item": "true"
+    },
+    {
+        "id": "iron_ore",
+        "name": "Iron Ore",
+        "base_item": "true"
+    },
+    {
+        "id": "stone",
+        "name": "Stone",
+        "base_item": "true"
+    },
+    {
+        "id": "coal",
+        "name": "Coal",
+        "base_item": "true"
+    },
+    {
+        "id": "copper_ore",
+        "name": "Copper Ore",
+        "base_item": "true"
+    },
+    {
+        "id": "sand",
+        "name": "Sand",
+        "base_item": "false"
+    },
+    {
+        "id": "wooden_plank",
+        "name": "Wooden Plank",
+        "base_item": "false"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": "wood_log",
+        "station": "extractor",
+        "inputs": [ null ],
+        "outputs": [ { "item": "wood_log", "qty": 1 } ],
+        "time": 1.0
+    },
+    {
+        "id": "wooden_plank",
+        "station": "workshop",
+        "inputs": [ {"item_id": "wood_log", "qty": 2} ],
+        "outputs": [ { "item": "wooden_plank", "qty": 1 } ],
+        "time": 1.0
+    }
+]
